@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import {Stockinfo} from "../interfaces/Stockinfo";
-import React from 'react';
 
 
 const AllinfoDiv = styled.div`
